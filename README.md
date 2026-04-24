@@ -1,5 +1,7 @@
 # Authentication Path Traversal To Remote Execute Code
 
+**0. Chán quá commit mấy cái linh tinh heh
+
 **1. INFORMATION**
 
 - During my research, I discovered a path traversal vulnerability in Dolibarr that leads to the attacker being able to read all files on the victim system.The cause of the vulnerability is because the source code does not filter the input from the parameter menu and pass it directly to the dol_include_once() function.
