@@ -1,6 +1,6 @@
 # Authentication Path Traversal To Remote Execute Code
 
-**0. Chán quá commit mấy cái linh tinh heh**
+**0. WA CHÁN COMMIT VUI**
 
 **1. INFORMATION**
 
